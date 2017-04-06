@@ -1,3 +1,4 @@
+
 # hackaton
 Hackaton Progra Web 1
 El proyecto consiste en crear una red social para músicos, con los siguientes features:
@@ -11,6 +12,4 @@ El proyecto consiste en crear una red social para músicos, con los siguientes f
 4. Al ver los resultados de búsqueda puedo ver el detalle del músico accediendo al perfil del mismo
 
 
-
 Proyecto  debe subirse a git y deberán colocar aquí el link hacia el repositorio. Deben de usar buenas practicas a la hora de crear los archivos HTML, CSS , PHP asi como a la hora de hacer commits en git.
-
